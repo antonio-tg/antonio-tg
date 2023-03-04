@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 🚀 About me
-I'm Antonio Trejo, a data scientist with experience in collecting, analyzing and interpreting large volumes of data, developing new predictive models and managing data. I possess extensive analytical skills, great attention to detail, and significant teamwork skills.
+I'm Antonio Gutiérrez, a data scientist with experience in collecting, analyzing and interpreting large volumes of data, developing new predictive models and managing data. I possess extensive analytical skills, great attention to detail, and significant teamwork skills.
 
 I know how to program in python, fortran, go and matlab
 

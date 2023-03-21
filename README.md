@@ -17,6 +17,6 @@ I know how to program in python, fortran, go and matlab
 
 📫 How to reach me: jose_bbc@yahoo.com.mx.
 
-😄 Pronouns: He.
+😄 Pronouns: he/him.
 
 ⚡ Fun fact: I am an expert in matlab and I never use it at work.
